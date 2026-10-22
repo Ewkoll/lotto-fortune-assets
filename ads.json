@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "updated": "2026-10-22",
+  "home_banner": {
+    "enabled": true,
+    "image": "banner_default.png",
+    "link": "",
+    "text": "每日一卦 · 量力而行"
+  }
+}
